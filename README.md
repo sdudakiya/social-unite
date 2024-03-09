@@ -72,4 +72,4 @@ The frontend app should be user-friendly and responsive to cater to a wide range
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Set up pipelines using Jenkins, GitLab CI/CD, or GitHub Actions to automate testing and deployment.
 - **Monitoring and Logging**: Implement monitoring and logging solutions like Prometheus, Grafana, and ELK Stack for real-time performance monitoring and log management.
 
-Remember, the choices in technology and tools should align with your team's expertise, project requirements, and long-term maintenance capabilities. It's also vital to implement security best practices from the start, including regular code reviews, secure coding practices, and penetration testing.
+Remember, the choices in technology and tools should align with team's expertise, project requirements, and long-term maintenance capabilities. It's also vital to implement security best practices from the start, including regular code reviews, secure coding practices, and penetration testing.
