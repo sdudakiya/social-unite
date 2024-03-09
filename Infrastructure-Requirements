@@ -1,0 +1,11 @@
+### Development Server Configurations
+
+- **Backend Server Configuration**:
+  - CPU: 2-4 cores
+  - Memory: 4-8 GB RAM
+  - Storage: 50-100 GB SSD
+
+- **Frontend Server Configuration**:
+  - CPU: 2 cores
+  - Memory: 4 GB RAM
+  - Storage: 50 GB SSD
