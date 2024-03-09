@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-09T09:35:03.059Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Nl2-XzqJHPOKZBvEkyKs" version="24.0.3" type="github">
+<mxfile modified="2024-03-09T09:36:27.860Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="2dyru83HYxZbB0fkSv2L" version="24.0.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="880" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="9d69RLfuY37huKtG7Pul-19" value="Signup, SignIn, Authentication services, Access Management" style="whiteSpace=wrap;html=1;fillColor=#2875E2;strokeColor=#ffffff;sketch=0;dashed=0;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-175">
           <mxGeometry x="86" y="341.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9d69RLfuY37huKtG7Pul-21" value="Front end pages" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-175">
+        <mxCell id="9d69RLfuY37huKtG7Pul-21" value="Front end pages" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-175">
           <mxGeometry x="341" y="339.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
